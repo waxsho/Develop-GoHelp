@@ -50,5 +50,5 @@ Fechas de entrega de avances en el desarrollo de la plataforma
 - [ ] **Hito 3:** 06/02/2017
 
 ##Cronograma
-El cronograma de desarrollo de la Plataforma se encuentra en el siguiente link.
+El cronograma de desarrollo de la Plataforma se encuentra en el siguiente [link](https://github.com/waxsho/Develop-GoHelp/blob/master/Archivos/Planificaci%C3%B3n%20desarrollo%20GoHelp.xlsx).
 
