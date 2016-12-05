@@ -1,4 +1,4 @@
-![GoHelp Logo](/images/GoHelpLogo.png)
+![GoHelp Logo](/images/GoHelpLogo1.png)
 # GoHelp
 Repositorio de desarrollo de la plataforma GoHelp
 
