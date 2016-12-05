@@ -1,6 +1,7 @@
 ![GoHelp Logo](/images/GoHelpLogo1.png)
 # GoHelp
-Repositorio de desarrollo de la plataforma GoHelp
+Es una plataforma de distribución inteligente que permite conocer la demanda real de necesidades básicas después de una situación de desastre, y realizar la distribución de las donaciones de la manera más eficiente.
+
 
 ## Módulos de Desarrollo
 La plataforma se compone por 5 modulos:
